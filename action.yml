@@ -1,4 +1,4 @@
-name: 'Attach pull request to Asana task'
+name: 'Attach pull request to Asana task [2]'
 description: 'Check the pull request description for specific Asana task URLs and add the pull request as an attachment to those tasks'
 author: Asana
 branding:
